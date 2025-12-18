@@ -39,7 +39,7 @@ Play as many rounds as you like 🎯
 
 🔗 Live Demo
 
-👉 Live Link:https://frabjous-crumble-9885cb.netlify.app/
+👉 Live Link: https://frabjous-crumble-9885cb.netlify.app/
 
 📂 Project Structure
 rock-paper-scissors/
